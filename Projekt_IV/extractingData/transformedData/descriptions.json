@@ -1,0 +1,1031 @@
+[
+    {
+        "id": "c5213036-9eb9-41ce-bd05-b88b038c67f6",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "1682cd3e-3385-4196-bcf2-45a232c721a4",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "a1435358-fda2-4f35-8f07-ae6cf0687c18",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "55b9e437-eeb8-46c2-b835-bdbe2fd9cbdb",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "c2ef886c-27d2-4a6f-8e1d-731272b5d5ba",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "83df5be8-02b2-472f-a614-bc54d8a8bfc9",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "91f56c84-71fc-4c78-b050-595b3fa45e86",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "7d3176b4-f8ff-482b-9d27-24a574315a43",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "e960b7d2-5cf2-445d-9d58-4faf6b58b5a2",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "89093b93-0789-4b77-b505-c6ae1b88f457",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "75a4f4f0-73f7-4444-b5ab-524d758926a2",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "d9c2b80c-5539-4f40-b386-663eb2a4dce9",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "fa6d39b0-d67f-456c-82bc-7c54fc300c12",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "c4695eed-62e5-4a43-949e-53da7dbc4c48",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "53c05947-aa63-439e-9fdb-f163d7672939",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "2b187f4d-1790-485d-adb0-94ae8cb369ef",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "5a133a06-7a3b-4813-baf0-244b9002f847",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "e918f8ca-979c-46ac-a686-b93c9ee70c52",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "a38bb18c-efb7-424b-b861-956b3c7943f7",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "a7a414f5-5cc9-4b0f-9262-ce3eecf63660",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "5d678bc5-07f5-410f-aeb5-b203fe86a1ae",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "c918eb7b-bff9-47bf-8338-b63dd3ffa17c",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "0dab3db4-38b5-4937-8dc3-b800b36e9e4f",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "4891b26a-9d3e-40cb-a4a1-44e2496deab6",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "776b62b0-57b3-4bae-920f-0abc36385689",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "e8104e21-870b-43ed-88f9-691095adca7c",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "140b6318-0f71-40f5-bf49-928294bbb3bf",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "19130630-00e6-4bd7-94f9-52685ff21e78",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "92fa52cb-5fe4-4a4a-909a-c2e10f033b46",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "874fa0ab-6d2a-457a-8017-70b17a279b8f",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "fe399655-048b-4b2a-8811-f50bee7a363e",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "85e4c783-f200-426b-ac99-8fb48f62533d",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "84f282b4-24e3-4aa9-b63d-67b9bed6c396",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "59ea8f78-9d4f-404b-bf1d-6411cc024bab",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "b6567274-b884-4ed8-ab33-5d150a4c7055",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "812ee1e4-ceb2-4bc5-b0eb-a698f4e42315",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "7ec6d77a-9ca8-446f-8a39-aff19ab3b94d",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "e7cb1cfd-1b26-43f4-be86-bbbb88a31441",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "52c39e2e-b7d9-4690-b057-d00ddd2b749e",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "f8bb0fe8-0a06-4319-8a13-63611824126f",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "c181832d-0063-4301-bcb0-2fa5a6c7a327",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "265be6b0-61be-41bf-a12e-116505147406",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "c1d146d7-d46c-4087-82e8-42ee56e224ed",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "68550b92-6943-41e4-985b-0b1e45ef2e93",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "3b2634cc-7572-4c3a-8e56-1c611a68429e",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "4c27ac10-0a6a-44bd-9c58-36b3df5b94e6",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "16de6794-9503-41c0-911b-067b138c609d",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "556ac9ac-f930-4a69-8257-3961ca3393f4",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "20f23915-72fa-4c18-b00d-9bbe47b39104",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "93bd6c22-0fd6-4999-b4ec-977c9a908665",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "1c77d39a-22da-4020-99a6-4af8f0534dbf",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "cf391a79-43c9-4ab7-8acc-2e0ce90b1068",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "9b533ce0-e594-4ef0-be6a-a5390893a3a0",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "352a3893-f4f3-4b2f-8c7f-d06607051b07",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "dd0c1636-0f91-441d-813e-7bbed34479ff",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "c545681d-172c-4e0e-bd38-b49aad25ade3",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "055137e8-ad18-467c-8ebc-e2032808cc0f",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "022464b6-4332-4088-8171-57c5d05bedf0",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "14ebaa8c-5b9e-449a-97a3-dc3f820a3dcf",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "6c93bebe-4764-4fce-bc72-b84f1f3d741a",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "924f8897-8553-4317-af88-006a63cbfdeb",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "2801396e-8985-4b70-b803-ce3b39950981",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "d33cee41-0b74-4dae-94cb-423f67a187f2",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "0ff15433-7bda-475b-8af8-460041f743fc",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "78830abc-e4b0-41c9-8bc3-e1872360e440",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "23a77d4c-50fd-4d76-ac03-2b07d37ef43d",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "e65b04f7-df5a-4e5c-9544-03d078adbd5f",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "05e38bd1-701b-4c81-9526-eecfe55ee944",
+        "parking": true,
+        "wifi": true,
+        "smoking": true,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "cd3e4553-cf5e-42d5-9b52-e0b5d139f830",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "b8e1b3a2-4490-46a2-9bfc-172112a2bf41",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "7f6b0727-85ad-471a-a180-2d715165a7cb",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "7664c1cc-7945-48cc-85a7-e597b9619c03",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "bfbc5d04-448f-4d2d-9408-9fefd6fd2809",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "f5d8ad6a-52be-4320-90f9-8c1c5e6cb27a",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "94030c7a-c392-49a9-af7d-4a7d359f83dd",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "2bb0295d-ee48-4f78-a10d-aaa793a1095e",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "251584ff-8afc-4186-a33a-624903b11731",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "a7e4ea7e-43a9-4d52-9f59-beb33df857ed",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "4d934bad-cd65-47c9-8ce0-ba58c61e16b3",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "ad1e95bb-d1df-411a-b7a9-215812e43e9a",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "b1553284-45ed-4a54-97c4-24e413b4f36f",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "d5b339a7-26dd-45d5-bf96-b8a539c5960f",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "fe952afc-e25e-4d03-ba45-c9f45cf91569",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "07855425-30d9-49e7-99ae-3490e2b99120",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "5d4323e4-4cfa-4503-a64a-33d11a100e07",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "dc33301c-1ef9-4691-abc5-81980884f89c",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "45daeeb2-eb8e-41ba-b3ab-9ba760033f83",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "f891aae1-9c3f-4266-84df-16849139ef4a",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "538779fd-ef84-4348-b528-1fdc49b6dbcb",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "a18083c4-9ed4-41e7-8f62-41775df6bac2",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "ebd1bdff-5310-44a7-9c8a-8143687c765e",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "d0c94c80-a208-461f-97e0-ee2908d7b097",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "1dc73add-82f0-46f9-b874-197fec1ad0c7",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "360214e3-4be7-4dc3-9f16-6ac557b7fd3d",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "fb5005e5-128f-43ea-9c1f-64910e61f554",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "44869868-43d9-467b-9355-2ab494892504",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "584fbb1c-49b6-43f6-9760-bf6924a98e90",
+        "parking": true,
+        "wifi": true,
+        "smoking": true,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "7fd14b4c-6963-464d-a962-1fb110c56904",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "0394a32c-f014-41b6-8ad7-fd1536d20189",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "a3b3be37-ee52-4d29-8001-6ba9183edf03",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "76fb006a-577a-4241-ad29-b28be25dc0aa",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "fbb11de2-601d-42f5-9733-a0a3b460d05f",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "0b0e5e26-6603-4948-9eb8-d144a7258c12",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "4725dc43-b7fb-4d95-bdb1-4d4f3081d672",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "f590fb55-66e2-485a-b468-87610dc8e438",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "8469ca67-daa4-4ce0-bea1-df79dbf522fa",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "7a12ec43-4a99-4979-a042-db90209f8787",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "6b089728-7290-48d0-92c2-546aeee7be49",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "e652a76f-b676-44b7-bf3c-d6840efb3405",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "f83c0a8c-9a7d-4983-ade5-a3b611429c77",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "d6ed8d6f-c074-4082-8edf-ff2ce2eadab8",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "d5d7a07c-b973-47e8-8e0b-8bc91b0907f2",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "90fb8a33-7a57-4ce8-8467-9f79f30f6778",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "883c98e6-f9d3-42d4-bb0e-a02dd67969ae",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "3e2d9c1a-0755-4b74-98ff-32cc32a94605",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "d368ea5e-c771-4d99-a049-b169d03f517a",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "27e9bbd4-d454-4f93-be2a-625963590aa6",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "d588fae0-3865-418f-aaa8-6a946f4da8e5",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "eeefc000-2166-4f24-b40a-0e57d0a37ea5",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "cf3ea223-4a93-4b92-8a54-080fb1e1e21f",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "1f2172fc-4d81-4737-b088-4ecf611f125a",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "93a76e76-eac4-41d2-8ead-3224399eab07",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "0dff0fe7-0fa4-479c-83ed-878f1da03c5f",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "2f25fa3f-e0bc-4b08-92dc-3451ab19afe9",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "c1eaef90-bc3a-4e46-b7a7-6559da83bf2c",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "9016e229-005d-4423-916f-46182726191c",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "a1e63bbf-cc90-4b1e-b91f-1879edd5ee14",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "b1ec06eb-07ff-4702-a1e1-018e4c694e40",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "079bf0b4-72dd-4734-9acc-6f23b3e561ff",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "bbeb768e-2f90-4ae6-8547-529e7f582be5",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "3bae9dc2-8ac5-4a0c-b778-4b9a02fc6f42",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "177451ca-f410-463c-aec8-d7d4bebb4e22",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "958cfc0e-c4dd-4c53-a3d5-83ac6b1ecd82",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "01e029f8-8fce-4b7d-9a84-e676918a9576",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "533c6a7c-ac85-4467-bb9f-b6304ea4f2d1",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "a52fde37-9642-4171-a88b-58282582100f",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "14516717-7963-40f4-b289-b7e9109d74f2",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "d9a83482-8c30-4d08-a6d1-7b1b85a61873",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "8810c906-4167-4931-ac32-3347cab31d35",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "c22b323c-b6f9-4d53-b3e0-5139ec70cd55",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "2b15bfa8-09b3-4e51-ae88-1b535daa57e3",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "acfa07eb-c1da-4259-aa41-3f07b1670214",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "1cb233b1-6ab9-4bb2-812e-e877482fcc10",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "a210a660-c113-4e4e-86aa-4937663077e2",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "1a5410b8-f15d-4891-82d4-197fed7d76a0",
+        "parking": true,
+        "wifi": true,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "292c07f9-c8eb-4d71-8b1e-8cc869d50c59",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    },
+    {
+        "id": "053dd19c-2eb3-4e8c-86b5-b6b17e51bccb",
+        "parking": true,
+        "wifi": false,
+        "smoking": false,
+        "accessible_wheelchair": true
+    }
+]

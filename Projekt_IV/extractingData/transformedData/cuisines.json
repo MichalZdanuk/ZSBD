@@ -1,0 +1,374 @@
+[
+    {
+        "id": "4861fc2e-de60-46f3-9ebc-05be89ecdeb8",
+        "name": "Cafe"
+    },
+    {
+        "id": "e307ce0b-1237-41ad-a316-7f880ee4072e",
+        "name": "Pub Food"
+    },
+    {
+        "id": "d59809a9-f1e3-463b-b008-83844aebfe0d",
+        "name": "American"
+    },
+    {
+        "id": "a7e7359c-d517-421b-bcf8-b81d146a04b3",
+        "name": "Burgers"
+    },
+    {
+        "id": "71897d35-f2eb-4926-b546-94bfe063fe6b",
+        "name": "Pizza"
+    },
+    {
+        "id": "c8aec391-bae0-4747-916d-0c4da94f6fc2",
+        "name": "French"
+    },
+    {
+        "id": "9c92ba4c-8f33-42f2-a2cd-da48bb15839f",
+        "name": "Californian"
+    },
+    {
+        "id": "db2a2af7-3787-44b5-b1e6-6c15ac6618b4",
+        "name": "Mediterranean"
+    },
+    {
+        "id": "c286473d-8987-4c77-93dc-d68d4e37c797",
+        "name": "Indian"
+    },
+    {
+        "id": "97f9fa19-1b0d-4cb9-84fb-8cf53c2b2e97",
+        "name": "Chinese"
+    },
+    {
+        "id": "a51f2318-4c0b-45b9-b9df-bf748b31bc52",
+        "name": "Vegetarian"
+    },
+    {
+        "id": "677b756e-b10a-4864-8de5-6bf752db6188",
+        "name": "Asian"
+    },
+    {
+        "id": "a9d9b983-90ac-4add-a837-9e90b5d195b3",
+        "name": "Pakistani"
+    },
+    {
+        "id": "71732452-b1e2-4848-9b2d-2ad7a0390b94",
+        "name": "Italian"
+    },
+    {
+        "id": "3ed5e632-0e91-441a-8fe1-374254c526c5",
+        "name": "Seafood"
+    },
+    {
+        "id": "cc065cc3-2cec-46cc-b62c-54fd4e1abf8f",
+        "name": "Chowder"
+    },
+    {
+        "id": "476165f6-c2e3-4a92-a720-3513e9d062b6",
+        "name": "Burmese"
+    },
+    {
+        "id": "13aeb400-7fe9-4ae5-bd7b-06dff8758880",
+        "name": "European"
+    },
+    {
+        "id": "0b086a2a-e715-4511-813d-c1b08ee6796c",
+        "name": "Middle Eastern"
+    },
+    {
+        "id": "aca77cbf-d0df-4a50-b243-fa75b484c5e8",
+        "name": "Contemporary"
+    },
+    {
+        "id": "bb4c3d03-834b-4796-9dbc-ea9b14e581ca",
+        "name": "Bakery"
+    },
+    {
+        "id": "8458ebad-903f-4c33-bed9-b0c18099b3f4",
+        "name": "Coffee"
+    },
+    {
+        "id": "c086f509-887a-45a6-8901-8a6a3bf01038",
+        "name": "Tea"
+    },
+    {
+        "id": "e8cd58aa-a434-44d6-82b4-024d8729e773",
+        "name": "Tapas"
+    },
+    {
+        "id": "ac75957a-56d9-4100-822b-0599e323f6f4",
+        "name": "Spanish"
+    },
+    {
+        "id": "7b1bced4-727d-4851-8ada-b23c3e802404",
+        "name": "Dim Sum"
+    },
+    {
+        "id": "1dae1638-239c-42d2-b3ee-917d808792fb",
+        "name": "Deli"
+    },
+    {
+        "id": "fb4d808d-691d-4ec6-ad35-02f727fda990",
+        "name": "Southern"
+    },
+    {
+        "id": "df802b8c-54f8-490a-be35-c934c6592f34",
+        "name": "Cajun"
+    },
+    {
+        "id": "0e346374-7cbc-4c75-b1d4-d36302c174dd",
+        "name": "Creole"
+    },
+    {
+        "id": "723a1080-8a28-4819-9649-2202b015e378",
+        "name": "Soup"
+    },
+    {
+        "id": "e5218c59-6111-48f5-bd9f-873b9af9bba4",
+        "name": "Steak"
+    },
+    {
+        "id": "60253f64-3c29-426f-a3c1-48c7ba0b72a6",
+        "name": "Traditional"
+    },
+    {
+        "id": "4e8e6538-1c8f-4846-9cff-4bad1d54a7f6",
+        "name": "Diner"
+    },
+    {
+        "id": "84dfdf38-76c6-421e-b99f-e29cfb4b2ccf",
+        "name": "Sandwiches"
+    },
+    {
+        "id": "488dc0cc-3d19-4561-b1bf-1e93923b46a8",
+        "name": "Pastries"
+    },
+    {
+        "id": "54f4f08a-b42e-4724-8282-b88eadc876b6",
+        "name": "Soul Food"
+    },
+    {
+        "id": "5601f376-f9e7-462f-a3c9-6ebdf12eaf30",
+        "name": "Irish"
+    },
+    {
+        "id": "4d43b9b6-0a69-4ca6-8dfb-408c2721e40c",
+        "name": "Mexican"
+    },
+    {
+        "id": "ba804dc3-4b6c-4a3c-9984-6d622cc21231",
+        "name": "Hot Dogs"
+    },
+    {
+        "id": "48c9692d-0825-4258-adc8-372d77c4c26c",
+        "name": "Fast Food"
+    },
+    {
+        "id": "f545d4dc-46a8-4cdc-8f8b-7d84a8869303",
+        "name": "Organic"
+    },
+    {
+        "id": "5854a50a-2203-48d0-a366-f77b8d61df48",
+        "name": "Cheesesteaks"
+    },
+    {
+        "id": "d49bcdfc-ea61-47bb-94c0-f8affa3dba9a",
+        "name": "Fusion"
+    },
+    {
+        "id": "c56a0b95-7406-42e4-b5bd-f5f20fcd601d",
+        "name": "Pan Asian"
+    },
+    {
+        "id": "8e2a8ae0-1cb3-4c77-98ee-03e814a6552f",
+        "name": "Pasta"
+    },
+    {
+        "id": "58a96ef7-d8a0-42ca-bcca-63e48ab672f9",
+        "name": "Bistro"
+    },
+    {
+        "id": "ee213c51-8ba1-40bf-9bb3-0631ff27e6ac",
+        "name": "Grill"
+    },
+    {
+        "id": "30f71895-2455-4833-83fa-59bff46d2d70",
+        "name": "Halal"
+    },
+    {
+        "id": "7ddb1668-937f-447a-975f-b3cae55a8028",
+        "name": "Vegan"
+    },
+    {
+        "id": "36f4b1b2-ec4f-4a22-89ca-35fda27ca29f",
+        "name": "Southwestern"
+    },
+    {
+        "id": "bccbc960-29cd-4bea-b3fb-1cdb99427f41",
+        "name": "Ice Cream"
+    },
+    {
+        "id": "1359a081-8fa6-4ad8-953a-c39dd0562adf",
+        "name": "Vietnamese"
+    },
+    {
+        "id": "37ac4adb-4dce-4c2a-a3ba-f07fb65fd2b2",
+        "name": "International"
+    },
+    {
+        "id": "e95f464c-75cc-4260-955a-b4adbb135a95",
+        "name": "Eclectic"
+    },
+    {
+        "id": "b1ba81c5-108e-4d35-9933-06626da9cc90",
+        "name": "Continental"
+    },
+    {
+        "id": "a60b9a55-8084-413e-b676-2099fe63cc7d",
+        "name": "Latin American"
+    },
+    {
+        "id": "712bd18c-1744-48ec-892c-31ca7c9d088e",
+        "name": "Latin"
+    },
+    {
+        "id": "e5df6f1a-f24e-49ba-b883-5b0126873898",
+        "name": "Peruvian"
+    },
+    {
+        "id": "3cf966a3-9eca-43d6-a037-bd1b5a943e0a",
+        "name": "Wings"
+    },
+    {
+        "id": "04f06247-6c58-4cdf-b0ec-4134bdf5dcad",
+        "name": "Subs"
+    },
+    {
+        "id": "74db4b9f-bb01-4b09-9675-8db2b917ca9e",
+        "name": "Lebanese"
+    },
+    {
+        "id": "214d4ae8-94d4-477c-9b40-58a82a88f1d6",
+        "name": "African"
+    },
+    {
+        "id": "964f3a0b-e925-42b6-9bff-9eb5f92df6c8",
+        "name": "Greek"
+    },
+    {
+        "id": "29263722-5069-447b-84cf-3a60d6c04e11",
+        "name": "Sushi"
+    },
+    {
+        "id": "870403e0-5eb7-41c8-8e02-ce82eca18836",
+        "name": "Japanese"
+    },
+    {
+        "id": "9fde805e-3d46-4687-a20a-5d49c13253c7",
+        "name": "Raw"
+    },
+    {
+        "id": "439add3c-e25c-438a-8e77-830c02a9a09f",
+        "name": "Oysters"
+    },
+    {
+        "id": "a11963f8-84c1-406a-b593-25a163b7f5d2",
+        "name": "Noodle Bar"
+    },
+    {
+        "id": "b809b856-08c0-4374-a84f-5513b276ff65",
+        "name": "Chilean"
+    },
+    {
+        "id": "746c1e84-b057-4e5c-925f-562669df0241",
+        "name": "Barbecue"
+    },
+    {
+        "id": "0b0aaa0f-2c73-4133-a17f-db090a4dce20",
+        "name": "Korean"
+    },
+    {
+        "id": "762b42b7-6864-4838-8cf9-d06f1514e1e4",
+        "name": "Burgers,American,Fast Food,Sandwiches,Traditional"
+    },
+    {
+        "id": "e8b7033a-456f-4ef1-b51f-6a1e685f8d4f",
+        "name": "German"
+    },
+    {
+        "id": "406818a8-24ba-48bd-af44-2da3eb81e960",
+        "name": "Austrian"
+    },
+    {
+        "id": "5047ccff-dbde-4d4e-874b-a1b90935cca7",
+        "name": "Russian"
+    },
+    {
+        "id": "332df4ef-8e60-4f1d-9e36-79aaf19f8fe0",
+        "name": "Malaysian"
+    },
+    {
+        "id": "69ff92bc-b997-46f0-82e5-3f21a1f79104",
+        "name": "Indonesian"
+    },
+    {
+        "id": "ff354905-f5e3-431e-a65e-66c689135ed2",
+        "name": "Thai"
+    },
+    {
+        "id": "3e712e4e-8ba9-43fb-80f9-085463ad23ed",
+        "name": "South American"
+    },
+    {
+        "id": "c28686f9-e783-4768-bf9a-0934784be29f",
+        "name": "Gastropub"
+    },
+    {
+        "id": "b31eb816-54e3-4065-8afd-f04f34bd194d",
+        "name": "Kosher"
+    },
+    {
+        "id": "bfade836-e3dc-4b1c-82b8-9c27919acd97",
+        "name": "Fondue"
+    },
+    {
+        "id": "d8de1d31-587f-44ee-a79a-727fc8042e3c",
+        "name": "Bagels"
+    },
+    {
+        "id": "d74fbaac-4156-49eb-bc3b-05dc69d786c7",
+        "name": "Hawaiian"
+    },
+    {
+        "id": "bbd8c1dd-f898-4070-9e17-70557b786be1",
+        "name": "Salad"
+    },
+    {
+        "id": "ea461ab7-81b6-43dd-8154-1532bdd28a06",
+        "name": "Gyros"
+    },
+    {
+        "id": "8f078293-3c44-415a-97b6-fee33a83be26",
+        "name": "Turkish"
+    },
+    {
+        "id": "2cdfbcb0-0ba1-4062-b288-0cacef410110",
+        "name": "Crepes"
+    },
+    {
+        "id": "5562f6db-1391-4e28-b833-7c66f1481f5b",
+        "name": "Pho"
+    },
+    {
+        "id": "6442421d-5095-41b8-a92c-12bdda172ade",
+        "name": "British"
+    },
+    {
+        "id": "d26ca58a-e54a-4d2d-93cc-2c7f18efa9cb",
+        "name": "English"
+    },
+    {
+        "id": "7885e0a4-8a96-4f48-a9f5-3254a693aaf6",
+        "name": "Eastern European"
+    }
+]
